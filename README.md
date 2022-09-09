@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+bookers2Ver2.1より以下の機能を追加しました。
+・DM機能（相互フォローしないと使えません）
+・本の投稿一覧ページで、過去一週間でいいねの合計カウントが多い順に投稿を表示
+・ページの閲覧数をカウントし、投稿一覧、投稿詳細に表示させる
